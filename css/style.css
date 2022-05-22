@@ -1,0 +1,168 @@
+.navbar{
+    background-color: #4b4e59;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#navbar{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-link{
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+}
+
+#conf{
+    padding-top: 15px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+#conviertete{
+    color: white;
+}
+
+#tickets{
+    color: #50bb33;
+}
+
+#cartas{
+    margin-top: 40px;
+    
+}
+
+.card-title{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+#subtitulo{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+h4{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+h6{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    font-size: 25px;
+    margin-bottom:0px;
+}
+
+.titulo2{
+    display: flex;
+    justify-content: center;
+}
+
+#inputEmail{
+    margin-top: 10px;
+}
+
+#formulario{
+    width: 1000px;
+}
+
+#fila{
+    margin-top: 10px;
+}
+
+#colum{
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+#select{
+    font-family: 'Roboto', sans-serif;
+}
+
+.input-group{
+    margin-top: 10px;
+}
+
+.label{
+    margin-top: 12px;
+}
+
+#contenedorceleste{
+    background-color: lightblue; 
+    border-radius: 10px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+#total:focus{
+    box-shadow: none !important;
+    border: 0 !important;
+}
+
+#total{
+    height: 50px;
+    background-color: lightblue;
+    
+}
+
+#filabotones{
+    margin-top: 30px;
+}
+
+.btn{
+    width: 100%;
+    background-color: #32a313;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.btn:hover{
+    background-color: #32a313;
+    color: white;
+}
+.btn:focus{
+    background-color: #32a313;
+    color: white;
+    
+}
+
+#footer{
+    background-color:  #262e46 ;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.nav-link{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+}
+
+.nav-link:hover{
+    color: #2c4bac ;
+}
+
+#nav{
+    margin: 0px;
+    margin-top: 30px;
+    padding: 0px;
+}
+
+
